@@ -1,22 +1,42 @@
-body{
-    background-color: #FFF3E2;
+   body{
+    background-color:azure;
+   }
+   hr{
+        
+        border-style: dotted none none none;
+        border-color:dimgray;
+        
+        border-width:5px;
+        width:150px;
+        
+    }
+    h1{
+        
+        background-color:#66BFBF;
+        color: antiquewhite;
+    }
+h3{
+    background-color:#66BFBF;
+    color:antiquewhite;
+    font-style: inherit;
 }
-h1{
-    color:crimson;
+h2{
+    font-style: italic;
+}
+li{
+    font-style:oblique;
+}
+table{
+    font-style: oblique;
+    
 }
 p{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: small;
-    color: coral;
+   color:blueviolet;
+   
+   text-align: left;
+   size: 10%;
 }
-.bacon{
-    height: 250px;
-    width:250px;
-    background-color:black;
-}
-.palak{
-    background-color: aqua;
-}
-img:hover{
- background-color: gold;
+h5{
+    text-align:center;
+    color:#393646;
 }
